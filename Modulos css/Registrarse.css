@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    background-color: #f5f5f5;
+    font-family: cursive;
+}
+
+header {
+   background-color: #159447;  
+   height: 40px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+}
+
+
+
+h2{
+    width: 900px;
+    margin: 100;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+h2{
+    color: #000000;
+    font-family: Georgia, serif;
+    font-size: 30px;
+    margin-bottom: 50px;
+    margin-right: 1000px;
+    text-align: center;
+}
+
+.registro{
+    
+    color: #cf4141;
+    font-size: 18px;
+    margin: 80px 0 80px;
+    border: 2px solid #c40938;
+    border-radius: 40px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+}
+
+.registro button{
+    display: block;
+    margin: 35px auto 0;
+    background-color: #159447;
+    color: white;
+    border: 2px solid #000000;
+    padding: 6px 18px;
+    font-size: 16px;
+    cursor:pointer
+}
